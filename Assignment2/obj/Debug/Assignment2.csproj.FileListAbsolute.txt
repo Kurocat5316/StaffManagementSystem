@@ -1,0 +1,16 @@
+D:\Master\Kit506\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\Master\Kit506\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+D:\Master\Kit506\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+D:\Master\Kit506\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+D:\Master\Kit506\Assignment2\Assignment2\obj\Debug\MainWindow.g.cs
+D:\Master\Kit506\Assignment2\Assignment2\obj\Debug\App.g.cs
+D:\Master\Kit506\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.cache
+D:\Master\Kit506\Assignment2\Assignment2\obj\Debug\Assignment2_MarkupCompile.lref
+D:\Master\Kit506\Assignment2\Assignment2\obj\Debug\MainWindow.baml
+D:\Master\Kit506\Assignment2\Assignment2\obj\Debug\Assignment2.g.resources
+D:\Master\Kit506\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+D:\Master\Kit506\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+D:\Master\Kit506\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+D:\Master\Kit506\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+D:\Master\Kit506\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+D:\Master\Kit506\Assignment2\Assignment2\bin\Debug\MySql.Data.dll
